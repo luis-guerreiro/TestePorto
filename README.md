@@ -1,2 +1,2 @@
 # TestePorto
-Repositório das aulas do treinamento da Porto Segura--DH
+Repositório das aulas do treinamento da Porto Seguro
